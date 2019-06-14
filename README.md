@@ -6,7 +6,8 @@
    
 目录介绍
 --
-├── Readme.md <br>                    
+...
+├── Readme.md                  
 ├── head file                      
 │   ├── default.json
 │   ├── dev.json               
@@ -15,7 +16,7 @@
 │   ├── local.json             
 │   ├── production.json         
 │   └── test.json               
-├── source file <br>                      
+├── source file                  
 │   ├── default.json
 快速开始
 --
